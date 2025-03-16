@@ -1,8 +1,12 @@
 
 👋 Hi, I’m Yashwanth Kumar
+
 👀 I’m interested in Coding
+
 🌱 I’m currently learning MERN Stack
-📫 How to reach me yashkumarmandala45@gmail.com 
+
+📫 How to reach me yashkumarmandala45@gmail.com , https://www.linkedin.com/in/yashwanth-kumar-mandala-02b02b257/
+
 😄 Pronouns: he/Him
 
 <!--
