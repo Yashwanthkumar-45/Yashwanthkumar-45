@@ -1,4 +1,9 @@
-## Hi there 👋
+
+👋 Hi, I’m Yashwanth Kumar
+👀 I’m interested in Coding
+🌱 I’m currently learning MERN Stack
+📫 How to reach me yashkumarmandala45@gmail.com 
+😄 Pronouns: he/Him
 
 <!--
 **Yashwanthkumar-45/Yashwanthkumar-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
